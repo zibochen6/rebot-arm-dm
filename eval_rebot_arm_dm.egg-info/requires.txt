@@ -1,0 +1,9 @@
+draccus
+matplotlib
+ipython
+msgpack==1.1.0
+msgpack-numpy==0.4.8
+zmq
+lerobot @ git+https://github.com/Seeed-Projects/lerobot.git
+lerobot-robot-seeed-b601 @ git+https://github.com/Seeed-Projects/lerobot-robot-seeed-b601.git
+motorbridge

@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: eval_rebot_arm_dm
+Version: 0.1.0
+Requires-Python: >=3.10
+Requires-Dist: draccus
+Requires-Dist: matplotlib
+Requires-Dist: ipython
+Requires-Dist: msgpack==1.1.0
+Requires-Dist: msgpack-numpy==0.4.8
+Requires-Dist: zmq
+Requires-Dist: lerobot @ git+https://github.com/Seeed-Projects/lerobot.git
+Requires-Dist: lerobot-robot-seeed-b601 @ git+https://github.com/Seeed-Projects/lerobot-robot-seeed-b601.git
+Requires-Dist: motorbridge
